@@ -12,7 +12,7 @@
 
     </header>
     <main>
-<h1 class="text-danger">prova</h1>
+@yield('train-section')
     </main>
 </body>
 </html>
